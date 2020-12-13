@@ -164,7 +164,7 @@ Dead code should be removed from your coursework or re-written so it is used. Ha
 
 ### Coding Standards
 
-All code written by Students at CodeYourFuture should follow our [Coding Standard](./coding-standards) guidelines.
+All code written by Students at CodeYourFuture should follow our [Coding Standard](../coding-standards) guidelines.
 
 These guidelines are based on ones used in industry.
 
@@ -172,7 +172,7 @@ Guidelines are important in big organisations so that everyone writes code in th
 
 #### More Reading
 
-- [CodeYourFuture Coding Standards](./coding-standards)
+- [CodeYourFuture Coding Standards](../coding-standards)
 
 ### Well Indented Code
 
